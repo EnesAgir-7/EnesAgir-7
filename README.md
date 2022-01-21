@@ -1,4 +1,12 @@
+<p align="center" xmlns="http://www.w3.org/1999/html">
+    <br>
+<img align="center" alt="Coding" style=" object-fit: cover;"    src="https://github.com/playatanu/playatanu/blob/main/playatanu.png?raw=true">
+  <br>
+</p>
+
 <h1 align="center">Hey there, my name is Enes Agir <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
+
+<p align="center"> I make Cross Platform Apps Android IOS Web Windows Mac Linux </p> <hr>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%230A00FF&size=30&center=true&vCenter=true&width=900&height=110&lines=Passionate+Developer;Master+Student;Flutter+%26+Dart)](https://git.io/typing-svg)
 
@@ -32,6 +40,9 @@ Additionally, I am Master student in [<img width="120" src="https://www.helping.
     <a href="https://en.wikipedia.org/wiki/Adobe_Illustrator" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/640px-Adobe_Illustrator_CC_icon.svg.png" alt="aftereffects" width="40" height="40" /> </a>
 </p>
 
+
+| <a href="https://github.com/EnesAgir-7/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=EnesAgir-7&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Enes's github stats" /></a> | <a href="https://github.com/EnesAgir-7/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnesAgir-7&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 
 
 ## Connect with me:
