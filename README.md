@@ -1,9 +1,6 @@
 <p align="center" xmlns="http://www.w3.org/1999/html">
-    <br>
-    <img align="center" alt="Coding" style=" object-fit: cover;"    src="https://github.com/playatanu/playatanu/blob/main/playatanu.png?raw=true">![github_Image]
-    <img align="center" alt="Coding" style=" object-fit: cover;"    src="https://github.com/EnesAgir-7/React-Portfolio/blob/main/client/public/github_Image.jpg">![github_Image]
-(https://user-images.githubusercontent.com/84997756/163128219-33ffcfeb-a898-4d56-b20d-4d065b0356f1.jpg)
-
+   <br>
+    <img align="center" alt="Coding" style=" object-fit: cover;"    src="https://github.com/EnesAgir-7/React-Portfolio/blob/main/client/public/github_Image.jpg">
   <br>
 </p>
 
