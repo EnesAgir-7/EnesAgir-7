@@ -26,31 +26,24 @@ Additionally, I am Master student in [<img width="120" src="https://www.helping.
 ## 🚀 Languages and Tools:
 
 <p align="centre">
+
    <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://gitlab.com/uploads/-/system/project/avatar/24625030/django-icon-0.png" alt="django" width="45" height="45"/> </a>
-   
+   <a href="https://nodejs.org/en/" target="_blank"> <img src="https://academyclass.com/wp-content/uploads/2021/11/ACCL-NodeJS-300x300.png" alt="NodeJS" width="43" height="43" /> </a> 
    <a href="https://reactjs.org/" target="_blank"> <img src="https://styles.redditmedia.com/t5_2su6s/styles/communityIcon_4g1uo0kd87c61.png" alt="rectJS" width="43" height="43" /> </a>
-   
-   <a href="https://nodejs.org/en/" target="_blank"> <img src="https://academyclass.com/wp-content/uploads/2021/11/ACCL-NodeJS-300x300.png" alt="NodeJS" width="43" height="43" /> </a>
-   
    <a href="https://angular.io/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png" alt="Angular" width="43" height="43" /> </a>
-   
     <a href="https://flutter.dev/?gclsrc=aw.ds&gclid=EAIaIQobChMI4djN3NTA9QIVDxoGAB2GBw9YEAAYASAAEgJpnfD_BwE" target="_blank"> <img src="https://raw.githubusercontent.com/flutter-rus/flutter-rus.github.io/master/images/logo.png" alt="flutter" width="40" height="40" /> </a>
-    
-    <a href="https://www.microsoft.com/en-us/sql-server/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="microsoftsqlserver" width="40" height="40" /> </a>
-    
+    <a href="https://dart.dev/overview" target="_blank"> <img src="https://www.scottbrady91.com/img/logos/dart.png" alt="flutter" width="40" height="40" /> </a>
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" /> </a>
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" /> </a>
     <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" /> </a>
-    
-    <a href="https://www.python.org/" target="_blank"> <img src="https://banner2.cleanpng.com/20180712/yka/kisspng-professional-python-programmer-computer-programmin-python-logo-download-5b47725c1cc0d6.3474912915314089881178.jpg" alt="python" width="40" height="40" /> </a>
-    <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1024px-Typescript_logo_2020.svg.png" alt="typescript" width="40" height="40" /> </a>
-    <a href="https://dart.dev/overview" target="_blank"> <img src="https://www.scottbrady91.com/img/logos/dart.png" alt="dart" width="40" height="40" /> </a>
-    
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" /> </a>
+    <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" alt="nodejs" width="40" height="40" /> </a>
+    <a href="https://www.python.org/" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZ9mdi0PHqpFkCQreFE67eBLEwpsZdOdHPKm__lEi-7XUcQg4tCiy2wGBJRv20sC6rAiM&usqp=CAU" alt="nodejs" width="40" height="40" /> </a>
     <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" /> </a>
-    <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" /> </a>
+        <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" /> </a>
+        <a href="https://aws.amazon.com/tr/lightsail/?trk=784fb665-6a51-4e62-b43f-bdf3fb6341a0&sc_channel=ps&sc_campaign=acquisition&sc_medium=ACQ-P|PS-GO|Brand|Desktop|SU|Core-Main|Core|DACH|EN|Text&s_kwcid=AL!4422!3!456911458944!e!!g!!aws&ef_id=CjwKCAjw_b6WBhAQEiwAp4HyIJe-74C7ykHdQvHSFr6y1ttrg-nRRFxalfJAf1Kmk3ArymucakxR_xoCSO4QAvD_BwE:G:s&s_kwcid=AL!4422!3!456911458944!e!!g!!aws" target="_blank"> <img src="https://mpng.subpng.com/20190301/spw/kisspng-clip-art-logo-yellow-brand-line-aws-logo-transparent-amp-png-clipart-free-downlo-5c794060ba2988.8106720715514502087625.jpg" alt="aws" width="40" height="40" /> </a>
+        <a href="https://www.microsoft.com/en-us/sql-server/" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968306.png" alt="microsoftsqlserver" width="40" height="40" /> </a>
     <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" /> </a>
-    <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" /> </a>
     <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /> </a>
     <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" /> </a>
     <a href="https://en.wikipedia.org/wiki/Adobe_Illustrator" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/640px-Adobe_Illustrator_CC_icon.svg.png" alt="aftereffects" width="40" height="40" /> </a>
