@@ -8,7 +8,9 @@
 
 <p align="center"> I make Cross Platform Apps Android IOS Web Windows Mac Linux </p> <hr>
 
+<p align="center"> 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=2951F7&lines=Passionate+Developer;Python+%26+Django;Javascript+%26+React;Flutter+%26+Dart;Html+%26Css)](https://git.io/typing-svg)
+   </p>
 
 <img align="right" alt="Coding" width="400" src="https://github.com/profjordanov/profjordanov/blob/main/coding-person.gif">
 
