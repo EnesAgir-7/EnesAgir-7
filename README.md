@@ -6,18 +6,16 @@
 
 <h1 align="center">Hey there, my name is Enes Agir <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 
-<p align="center"> I make Cross Platform Apps Android IOS Web Windows Mac Linux </p> <hr>
-
-<p align="center"> 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=2951F7&lines=Passionate+Developer;Python+%26+Django;Javascript+%26+React;Flutter+%26+Dart;Html+%26Css)](https://git.io/typing-svg)
-   </p>
 
 <img align="right" alt="Coding" width="400" src="https://github.com/profjordanov/profjordanov/blob/main/coding-person.gif">
 
 
 ## 🙋‍♂️ About Me
 
-I am currently working as a developer in a small software team, delivering features on a daily basis. My passions are the modern Dart & Flutter and Application framework. 
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=2951F7&lines=Passionate+Developer;Python+%26+Django;Javascript+%26+React;Flutter+%26+Dart;Html+%26Css)](https://git.io/typing-svg)
+
+I am currently working as a developer in a small software team, delivering features on a daily basis. My passions are the Full-Stack Web Development. I also have an interest in Cross Platform Apps Android IOS Web Windows Mac Linux. 
 
 Additionally, I am Master student in [<img width="120" src="https://www.helping.academy/images/Logos/SRH.png">](https://www.srh-hochschule-heidelberg.de/)
 
