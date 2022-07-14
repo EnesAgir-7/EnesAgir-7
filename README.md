@@ -15,21 +15,37 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=2951F7&lines=Passionate+Developer;Python+%26+Django;Javascript+%26+React;Flutter+%26+Dart;Html+%26Css)](https://git.io/typing-svg)
 
-I am currently working as a developer in a small software team, delivering features on a daily basis. My passions are the Full-Stack Web Development. I also have an interest in Cross Platform Apps Android IOS Web Windows Mac Linux. 
+I graduated from the Computer Engineering department in 2020. Since then, 
+I have been improving my skills in Full-Stack Web Development. I also have 
+an interest in mobile application development as well. I believe my 
+willingness and enthusiasm to learn new technologies will make me as 
+strong part of your company.
 
 Additionally, I am Master student in [<img width="120" src="https://www.helping.academy/images/Logos/SRH.png">](https://www.srh-hochschule-heidelberg.de/)
 
 ## 🚀 Languages and Tools:
 
 <p align="centre">
+   <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://gitlab.com/uploads/-/system/project/avatar/24625030/django-icon-0.png" alt="django" width="45" height="45"/> </a>
+   
+   <a href="https://reactjs.org/" target="_blank"> <img src="https://styles.redditmedia.com/t5_2su6s/styles/communityIcon_4g1uo0kd87c61.png" alt="rectJS" width="43" height="43" /> </a>
+   
+   <a href="https://nodejs.org/en/" target="_blank"> <img src="https://academyclass.com/wp-content/uploads/2021/11/ACCL-NodeJS-300x300.png" alt="NodeJS" width="43" height="43" /> </a>
+   
+   <a href="https://angular.io/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png" alt="Angular" width="43" height="43" /> </a>
+   
     <a href="https://flutter.dev/?gclsrc=aw.ds&gclid=EAIaIQobChMI4djN3NTA9QIVDxoGAB2GBw9YEAAYASAAEgJpnfD_BwE" target="_blank"> <img src="https://raw.githubusercontent.com/flutter-rus/flutter-rus.github.io/master/images/logo.png" alt="flutter" width="40" height="40" /> </a>
-    <a href="https://dart.dev/overview" target="_blank"> <img src="https://www.scottbrady91.com/img/logos/dart.png" alt="flutter" width="40" height="40" /> </a>
-    <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40" /> </a>
-    <a href="https://en.wikipedia.org/wiki/.NET_Core" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt="dotnetcore" width="40" height="40" /> </a>
+    
     <a href="https://www.microsoft.com/en-us/sql-server/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="microsoftsqlserver" width="40" height="40" /> </a>
+    
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" /> </a>
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" /> </a>
     <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" /> </a>
+    
+    <a href="https://www.python.org/" target="_blank"> <img src="https://banner2.cleanpng.com/20180712/yka/kisspng-professional-python-programmer-computer-programmin-python-logo-download-5b47725c1cc0d6.3474912915314089881178.jpg" alt="python" width="40" height="40" /> </a>
+    <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1024px-Typescript_logo_2020.svg.png" alt="typescript" width="40" height="40" /> </a>
+    <a href="https://dart.dev/overview" target="_blank"> <img src="https://www.scottbrady91.com/img/logos/dart.png" alt="dart" width="40" height="40" /> </a>
+    
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" /> </a>
     <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" /> </a>
     <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" /> </a>
