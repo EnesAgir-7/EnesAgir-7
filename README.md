@@ -1,66 +1,61 @@
-<p align="center" xmlns="http://www.w3.org/1999/html">
-   <br>
-    <img align="center" alt="Coding" style=" object-fit: cover;"    src="https://github.com/EnesAgir-7/React-Portfolio/blob/main/client/public/github_Image.jpg">
-  <br>
-</p>
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is ENES AGIR
+=================================================================================================================================
 
-<h1 align="center">Hey there, my name is Enes Agir <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
+Full Stack Web/Mobile developer
+-------------------------------
 
-
-<img align="right" alt="Coding" width="400" src="https://github.com/profjordanov/profjordanov/blob/main/coding-person.gif">
-
-
-## 🙋‍♂️ About Me
-
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=2951F7&lines=Passionate+Developer;Python+%26+Django;Javascript+%26+React;Flutter+%26+Dart;Html+%26Css)](https://git.io/typing-svg)
-
-I graduated from the Computer Engineering department in 2020. Since then, 
-I have been improving my skills in Full-Stack Web Development. I also have 
-an interest in mobile application development as well. I believe my 
-willingness and enthusiasm to learn new technologies will make me as 
-strong part of your company.
-
+I graduated from the Computer Engineering department in 2020. Since then, I have been improving my skills in Full-Stack Web Development. I also have an interest in mobile application development as well. 
 Additionally, I am Master student in [<img width="120" src="https://www.helping.academy/images/Logos/SRH.png">](https://www.srh-hochschule-heidelberg.de/)
 
-## 🚀 Languages and Tools:
+* 🌍  I'm based in Germany
+* 🖥️  See my portfolio at [EnesAgir](http://404)
+* ✉️  You can contact me at [enes.agir.7@gmail.com](mailto:enes.agir.7@gmail.com)
+* 🚀  I'm currently working on [Chair Stand Test Web application](http://github.com/EnesAgir-7/Chair_Stand_Test_Web_Application)
+* 🧠  I'm learning New Tools
 
-<p align="centre">
+### Skills
 
-   <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://gitlab.com/uploads/-/system/project/avatar/24625030/django-icon-0.png" alt="django" width="45" height="45"/> </a>
-   <a href="https://nodejs.org/en/" target="_blank"> <img src="https://academyclass.com/wp-content/uploads/2021/11/ACCL-NodeJS-300x300.png" alt="NodeJS" width="43" height="43" /> </a> 
-   <a href="https://reactjs.org/" target="_blank"> <img src="https://styles.redditmedia.com/t5_2su6s/styles/communityIcon_4g1uo0kd87c61.png" alt="rectJS" width="43" height="43" /> </a>
-   <a href="https://angular.io/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png" alt="Angular" width="43" height="43" /> </a>
-    <a href="https://flutter.dev/?gclsrc=aw.ds&gclid=EAIaIQobChMI4djN3NTA9QIVDxoGAB2GBw9YEAAYASAAEgJpnfD_BwE" target="_blank"> <img src="https://raw.githubusercontent.com/flutter-rus/flutter-rus.github.io/master/images/logo.png" alt="flutter" width="40" height="40" /> </a>
-    <br>
-    <a href="https://dart.dev/overview" target="_blank"> <img src="https://www.scottbrady91.com/img/logos/dart.png" alt="flutter" width="40" height="40" /> </a>
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" /> </a>
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" /> </a>
-    <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" /> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" /> </a>
-    <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" alt="nodejs" width="40" height="40" /> </a>
-   <a href="https://www.python.org/" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZ9mdi0PHqpFkCQreFE67eBLEwpsZdOdHPKm__lEi-7XUcQg4tCiy2wGBJRv20sC6rAiM&usqp=CAU" alt="nodejs" width="40" height="40" /> </a>
-       <br>
-    <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" /> </a>
-        <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" /> </a>
-        <a href="https://aws.amazon.com/tr/lightsail/?trk=784fb665-6a51-4e62-b43f-bdf3fb6341a0&sc_channel=ps&sc_campaign=acquisition&sc_medium=ACQ-P|PS-GO|Brand|Desktop|SU|Core-Main|Core|DACH|EN|Text&s_kwcid=AL!4422!3!456911458944!e!!g!!aws&ef_id=CjwKCAjw_b6WBhAQEiwAp4HyIJe-74C7ykHdQvHSFr6y1ttrg-nRRFxalfJAf1Kmk3ArymucakxR_xoCSO4QAvD_BwE:G:s&s_kwcid=AL!4422!3!456911458944!e!!g!!aws" target="_blank"> <img src="https://mpng.subpng.com/20190301/spw/kisspng-clip-art-logo-yellow-brand-line-aws-logo-transparent-amp-png-clipart-free-downlo-5c794060ba2988.8106720715514502087625.jpg" alt="aws" width="40" height="40" /> </a>
-        <a href="https://www.microsoft.com/en-us/sql-server/" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968306.png" alt="microsoftsqlserver" width="40" height="40" /> </a>
-    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" /> </a>
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /> </a>
-    <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" /> </a>
-    <a href="https://en.wikipedia.org/wiki/Adobe_Illustrator" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/640px-Adobe_Illustrator_CC_icon.svg.png" alt="aftereffects" width="40" height="40" /> </a>
-</p>
-
-
-| <a href="https://github.com/EnesAgir-7/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=EnesAgir-7&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Enes's github stats" /></a> | <a href="https://github.com/EnesAgir-7/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnesAgir-7&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
-
-
-## Connect with me:
 <p align="left">
-
-<a href = "https://www.linkedin.com/in/enes-agir-a0b926200/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/enes_agir7"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://instagram.com/enes.agir7?utm_medium=copy_link"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+<a href="https://coffeescript.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/coffeescript-colored-dark.svg" width="36" height="36" alt="Coffeescript" /></a>
+<a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="36" height="36" alt="Dart" /></a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
+<a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="36" height="36" alt="Angular" /></a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
+<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
+<a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a>
+<a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
+<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
+<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="36" height="36" alt="Fast API" /></a>
+<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" width="36" height="36" alt="Express" /></a>
+<a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
+<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored-dark.svg" width="36" height="36" alt="Django" /></a>
+<a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a>
+<a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored-dark.svg" width="36" height="36" alt="Photoshop" /></a>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
+
+
+### Socials
+
+<p align="left"> <a href="https://www.github.com/EnesAgir-7" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/enes.agir7" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/enes-agir-a0b926200/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/19700947/enes-agir" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/enes_agir7" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/EnesAgir-7"><img src="https://github-readme-stats.vercel.app/api?username=EnesAgir-7&show_icons=true&hide=issues,&title_color=3382ed&text_color=ffffff&icon_color=ef4444&bg_color=000000&hide_border=true&show_icons=true" alt="EnesAgir-7's GitHub stats" /></a>
+
+<a href="http://www.github.com/EnesAgir-7"><img src="https://github-readme-streak-stats.herokuapp.com/?user=EnesAgir-7&stroke=ffffff&background=000000&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="http://www.github.com/EnesAgir-7"><img src="https://activity-graph.herokuapp.com/graph?username=EnesAgir-7&bg_color=000000&color=ffffff&line=ef4444&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+<a href="https://github.com/EnesAgir-7" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnesAgir-7&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=ef4444&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+### Support Me
+
+<a href="https://www.buymeacoffee.com/enesagir7L"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
