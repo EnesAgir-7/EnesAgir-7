@@ -7,9 +7,9 @@ Full Stack Web/Mobile developer
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Passion+Developer;Python+%26+Django;Node+%26+React;JavaScript+%26+Typescript;Flutter+%26+Dart)](https://git.io/typing-svg)
 
-I graduated from the Computer Engineering department in 2020. Since then, 
-I have been improving my skills in Full-Stack Web Development. I also have 
-an interest in mobile application development as well. 
+I graduated from the Computer Engineering department in 2020. <br/>
+Since then, I have been improving my skills in Full-Stack Web Development. <br/>
+I also have an interest in mobile application development as well. 
 
 Additionally, I am Master student in<img width="120" src="https://www.helping.academy/images/Logos/SRH.png">
 
