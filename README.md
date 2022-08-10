@@ -3,14 +3,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Full Stack Web/Mobile developer
 -------------------------------
-<img align="right" alt="Coding" width="400" src="https://github.com/profjordanov/profjordanov/blob/main/coding-person.gif">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Passion+Developer;Python+%26+Django;Node+%26+React;JavaScript+%26+Typescript;Flutter+%26+Dart)](https://git.io/typing-svg)
 
-I graduated from the Computer Engineering department in 2020. <br/>
-Since then, I have been improving my skills in Full-Stack Web Development. <br/>
-I also have an interest in mobile application development as well. 
-
+I graduated from the Computer Engineering department in 2020. Since then, I have been improving my skills in Full-Stack Web Development. I also have an interest in mobile application development as well. <br/>
 Additionally, I am Master student in<img width="120" src="https://www.helping.academy/images/Logos/SRH.png">
 
 * 🌍  I'm based in Germany
@@ -18,6 +14,7 @@ Additionally, I am Master student in<img width="120" src="https://www.helping.ac
 * ✉️  You can contact me at [enes.agir.7@gmail.com](mailto:enes.agir.7@gmail.com)
 * 🚀  I'm currently working on Some Projects
 * 🧠  I'm learning New Tools
+
 
 ### Skills
 
