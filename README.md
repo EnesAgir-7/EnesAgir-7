@@ -65,7 +65,6 @@ Additionally, I am Master student in<img width="120" src="https://www.helping.ac
 | <a href="http://www.github.com/EnesAgir-7"><img src="https://github-readme-stats.vercel.app/api?username=EnesAgir-7&show_icons=true&hide=issues,&title_color=3382ed&text_color=ffffff&icon_color=ef4444&bg_color=000000&hide_border=true&show_icons=true" alt="EnesAgir-7's GitHub stats" /></a> | <a href="http://www.github.com/EnesAgir-7"><img src="https://github-readme-streak-stats.herokuapp.com/?user=EnesAgir-7&stroke=ffffff&background=000000&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-<a href="http://www.github.com/EnesAgir-7"><img src="https://activity-graph.herokuapp.com/graph?username=EnesAgir-7&bg_color=000000&color=ffffff&line=ef4444&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 ### Support Me
 
