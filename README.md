@@ -10,9 +10,9 @@ A computer science engineering graduate with a passion for web & mobile developm
 Additionally, I am Master student in<img width="120" src="https://www.helping.academy/images/Logos/SRH.png">
 
 * 🌍  I'm based in Germany
-* 🖥️  See my portfolio at [EnesAgir](http://404)
+* 🖥️  See my portfolio at [EnesAgir](https://github.com/EnesAgir-7)
 * ✉️  You can contact me at [enes.agir.7@gmail.com](mailto:enes.agir.7@gmail.com)
-* 🚀  I'm currently working on Some Projects
+* 🚀  I'm currently working on Connecting multiple devices using AWS
 * 🧠  I'm learning New Tools
 
 
