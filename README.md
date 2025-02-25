@@ -6,10 +6,9 @@ Full Stack Web/Mobile developer
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Passion+Developer;Python+%26+Django;Node+%26+React;JavaScript+%26+Typescript;Flutter+%26+Dart)](https://git.io/typing-svg)
 
-A computer science engineering graduate with a passion for web & mobile development with substantial knowledge of full-stack development. I believe my willingness and enthusiasm to learn new technologies will make me as strong part of your company.. <br/>
-Additionally, I am Master student in<img width="120" src="https://www.helping.academy/images/Logos/SRH.png">
+I am a Computer Science graduate with a passion for web & mobile development. My enthusiasm for learning new technologies helps me create impactful digital solutions.
 
-* 🌍  I'm based in Germany
+* 🌍  I'm based in Cologne/Germany
 * 🖥️  See my portfolio at [EnesAgir](https://github.com/EnesAgir-7)
 * ✉️  You can contact me at [enes.agir.7@gmail.com](mailto:enes.agir.7@gmail.com)
 * 🚀  I'm currently working on Connecting multiple devices using AWS
